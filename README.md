@@ -8,4 +8,6 @@ Gameplay video: https://www.youtube.com/watch?v=OR8CnaYvmGg
 
 
 Used assets:
-. https://www.ramsterzanimations.com/store-buy/p/epic-megajam-2022-free-anims
+
+
+    . https://www.ramsterzanimations.com/store-buy/p/epic-megajam-2022-free-anims
